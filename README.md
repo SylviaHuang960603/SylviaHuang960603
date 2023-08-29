@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sylvia!
 
 # 💫 About Me:
 🔭 I’m currently working on a business case study.<br>👯 I am interested in collaborating on a project involving data analysis for marketing and business purposes.<br>🌱 I’m currently learning the R language.<br>💬 Ask me about how to combine data analysis with growth marketing.<br>⚡ Fun fact - I am interested in finding ways to increase productivity and work smarter, not harder.
