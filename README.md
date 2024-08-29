@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sylvia!
 
 # 💫 About Me:
-🔭 I’m currently working on a business case study.<br>👯 I am interested in collaborating on a project involving data analysis for marketing and business purposes.<br>🌱 I’m currently learning the R language.<br>💬 Ask me about how to combine data analysis with growth marketing.<br>⚡ Fun fact - I am interested in finding ways to increase productivity and work smarter, not harder.
+🔭 As a data enthusiast, I am currently pursuing my Master of Business Analytics at Macquarie University.<br>👯 I am driven by a deep passion for harnessing the power of data analysis to uncover valuable insights for the business.<br>🌱 Currently, I am honing my skills in PowerBI and I am keen on taking on a Power BI project. <br>💬 Ask me about how to make a data-driven decision.<br>⚡ Fun fact - I'm motivated to discover new methods to enhance productivity and work more efficiently, not just harder.
 
 
 ## 🌐 Socials:
