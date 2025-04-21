@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Sylvia!
 
 # 💫 About Me:
-🔭 As a data enthusiast, I am currently pursuing my Master of Business Analytics at Macquarie University.<br>👯 I am driven by a deep passion for harnessing the power of data analysis to uncover valuable insights for the business.<br>🌱 Currently, I am honing my skills in PowerBI and I am keen on taking on a Power BI project. <br>💬 Ask me about how to make a data-driven decision.<br>⚡ Fun fact - I'm motivated to discover new methods to enhance productivity and work more efficiently, not just harder.
+👋 Hi, I’m Sylvia – a growth marketer turned aspiring data analyst with 2+ years of experience in performance marketing and advertising analytics.<br>
+🎓 I recently completed my Master’s in Business Analytics (Dec 2024), where I deepened my skills in data analysis, visualisation, and statistical modelling.<br>
+📊 I specialise in turning campaign data into actionable insights.
 
 
 ## 🌐 Socials:
